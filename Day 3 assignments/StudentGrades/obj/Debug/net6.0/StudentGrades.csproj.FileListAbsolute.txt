@@ -1,0 +1,15 @@
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\StudentGrades\obj\Debug\net6.0\StudentGrades.csproj.AssemblyReference.cache
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\StudentGrades\obj\Debug\net6.0\StudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\StudentGrades\obj\Debug\net6.0\StudentGrades.AssemblyInfoInputs.cache
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\StudentGrades\obj\Debug\net6.0\StudentGrades.AssemblyInfo.cs
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\StudentGrades\obj\Debug\net6.0\StudentGrades.csproj.CoreCompileInputs.cache
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\StudentGrades\bin\Debug\net6.0\StudentGrades.exe
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\StudentGrades\bin\Debug\net6.0\StudentGrades.deps.json
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\StudentGrades\bin\Debug\net6.0\StudentGrades.runtimeconfig.json
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\StudentGrades\bin\Debug\net6.0\StudentGrades.dll
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\StudentGrades\bin\Debug\net6.0\StudentGrades.pdb
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\StudentGrades\obj\Debug\net6.0\StudentGrades.dll
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\StudentGrades\obj\Debug\net6.0\refint\StudentGrades.dll
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\StudentGrades\obj\Debug\net6.0\StudentGrades.pdb
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\StudentGrades\obj\Debug\net6.0\StudentGrades.genruntimeconfig.cache
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\StudentGrades\obj\Debug\net6.0\ref\StudentGrades.dll

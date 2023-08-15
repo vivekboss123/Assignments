@@ -1,0 +1,15 @@
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\LibraryManagement\obj\Debug\net6.0\LibraryManagement.csproj.AssemblyReference.cache
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\LibraryManagement\obj\Debug\net6.0\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\LibraryManagement\obj\Debug\net6.0\LibraryManagement.AssemblyInfoInputs.cache
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\LibraryManagement\obj\Debug\net6.0\LibraryManagement.AssemblyInfo.cs
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\LibraryManagement\obj\Debug\net6.0\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\LibraryManagement\bin\Debug\net6.0\LibraryManagement.exe
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\LibraryManagement\bin\Debug\net6.0\LibraryManagement.deps.json
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\LibraryManagement\bin\Debug\net6.0\LibraryManagement.runtimeconfig.json
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\LibraryManagement\bin\Debug\net6.0\LibraryManagement.dll
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\LibraryManagement\bin\Debug\net6.0\LibraryManagement.pdb
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\LibraryManagement\obj\Debug\net6.0\LibraryManagement.dll
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\LibraryManagement\obj\Debug\net6.0\refint\LibraryManagement.dll
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\LibraryManagement\obj\Debug\net6.0\LibraryManagement.pdb
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\LibraryManagement\obj\Debug\net6.0\LibraryManagement.genruntimeconfig.cache
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\LibraryManagement\obj\Debug\net6.0\ref\LibraryManagement.dll

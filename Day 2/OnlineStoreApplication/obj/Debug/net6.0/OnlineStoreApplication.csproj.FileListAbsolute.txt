@@ -1,0 +1,15 @@
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\OnlineStoreApplication\obj\Debug\net6.0\OnlineStoreApplication.csproj.AssemblyReference.cache
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\OnlineStoreApplication\obj\Debug\net6.0\OnlineStoreApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\OnlineStoreApplication\obj\Debug\net6.0\OnlineStoreApplication.AssemblyInfoInputs.cache
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\OnlineStoreApplication\obj\Debug\net6.0\OnlineStoreApplication.AssemblyInfo.cs
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\OnlineStoreApplication\obj\Debug\net6.0\OnlineStoreApplication.csproj.CoreCompileInputs.cache
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\OnlineStoreApplication\bin\Debug\net6.0\OnlineStoreApplication.exe
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\OnlineStoreApplication\bin\Debug\net6.0\OnlineStoreApplication.deps.json
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\OnlineStoreApplication\bin\Debug\net6.0\OnlineStoreApplication.runtimeconfig.json
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\OnlineStoreApplication\bin\Debug\net6.0\OnlineStoreApplication.dll
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\OnlineStoreApplication\bin\Debug\net6.0\OnlineStoreApplication.pdb
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\OnlineStoreApplication\obj\Debug\net6.0\OnlineStoreApplication.dll
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\OnlineStoreApplication\obj\Debug\net6.0\refint\OnlineStoreApplication.dll
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\OnlineStoreApplication\obj\Debug\net6.0\OnlineStoreApplication.pdb
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\OnlineStoreApplication\obj\Debug\net6.0\OnlineStoreApplication.genruntimeconfig.cache
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\OnlineStoreApplication\obj\Debug\net6.0\ref\OnlineStoreApplication.dll

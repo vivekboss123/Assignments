@@ -1,0 +1,30 @@
+C:\Users\dhruv.solanki\source\repos\ShoppingCart\ShoppingCart\bin\Debug\net6.0\ShoppingCart.exe
+C:\Users\dhruv.solanki\source\repos\ShoppingCart\ShoppingCart\bin\Debug\net6.0\ShoppingCart.deps.json
+C:\Users\dhruv.solanki\source\repos\ShoppingCart\ShoppingCart\bin\Debug\net6.0\ShoppingCart.runtimeconfig.json
+C:\Users\dhruv.solanki\source\repos\ShoppingCart\ShoppingCart\bin\Debug\net6.0\ShoppingCart.dll
+C:\Users\dhruv.solanki\source\repos\ShoppingCart\ShoppingCart\bin\Debug\net6.0\ShoppingCart.pdb
+C:\Users\dhruv.solanki\source\repos\ShoppingCart\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.AssemblyReference.cache
+C:\Users\dhruv.solanki\source\repos\ShoppingCart\ShoppingCart\obj\Debug\net6.0\ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhruv.solanki\source\repos\ShoppingCart\ShoppingCart\obj\Debug\net6.0\ShoppingCart.AssemblyInfoInputs.cache
+C:\Users\dhruv.solanki\source\repos\ShoppingCart\ShoppingCart\obj\Debug\net6.0\ShoppingCart.AssemblyInfo.cs
+C:\Users\dhruv.solanki\source\repos\ShoppingCart\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\dhruv.solanki\source\repos\ShoppingCart\ShoppingCart\obj\Debug\net6.0\ShoppingCart.dll
+C:\Users\dhruv.solanki\source\repos\ShoppingCart\ShoppingCart\obj\Debug\net6.0\refint\ShoppingCart.dll
+C:\Users\dhruv.solanki\source\repos\ShoppingCart\ShoppingCart\obj\Debug\net6.0\ShoppingCart.pdb
+C:\Users\dhruv.solanki\source\repos\ShoppingCart\ShoppingCart\obj\Debug\net6.0\ShoppingCart.genruntimeconfig.cache
+C:\Users\dhruv.solanki\source\repos\ShoppingCart\ShoppingCart\obj\Debug\net6.0\ref\ShoppingCart.dll
+C:\Users\vivek.chaurasiya\Desktop\Day 2\ShoppingCart\ShoppingCart\bin\Debug\net6.0\ShoppingCart.exe
+C:\Users\vivek.chaurasiya\Desktop\Day 2\ShoppingCart\ShoppingCart\bin\Debug\net6.0\ShoppingCart.deps.json
+C:\Users\vivek.chaurasiya\Desktop\Day 2\ShoppingCart\ShoppingCart\bin\Debug\net6.0\ShoppingCart.runtimeconfig.json
+C:\Users\vivek.chaurasiya\Desktop\Day 2\ShoppingCart\ShoppingCart\bin\Debug\net6.0\ShoppingCart.dll
+C:\Users\vivek.chaurasiya\Desktop\Day 2\ShoppingCart\ShoppingCart\bin\Debug\net6.0\ShoppingCart.pdb
+C:\Users\vivek.chaurasiya\Desktop\Day 2\ShoppingCart\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.AssemblyReference.cache
+C:\Users\vivek.chaurasiya\Desktop\Day 2\ShoppingCart\ShoppingCart\obj\Debug\net6.0\ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivek.chaurasiya\Desktop\Day 2\ShoppingCart\ShoppingCart\obj\Debug\net6.0\ShoppingCart.AssemblyInfoInputs.cache
+C:\Users\vivek.chaurasiya\Desktop\Day 2\ShoppingCart\ShoppingCart\obj\Debug\net6.0\ShoppingCart.AssemblyInfo.cs
+C:\Users\vivek.chaurasiya\Desktop\Day 2\ShoppingCart\ShoppingCart\obj\Debug\net6.0\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\vivek.chaurasiya\Desktop\Day 2\ShoppingCart\ShoppingCart\obj\Debug\net6.0\ShoppingCart.dll
+C:\Users\vivek.chaurasiya\Desktop\Day 2\ShoppingCart\ShoppingCart\obj\Debug\net6.0\refint\ShoppingCart.dll
+C:\Users\vivek.chaurasiya\Desktop\Day 2\ShoppingCart\ShoppingCart\obj\Debug\net6.0\ShoppingCart.pdb
+C:\Users\vivek.chaurasiya\Desktop\Day 2\ShoppingCart\ShoppingCart\obj\Debug\net6.0\ShoppingCart.genruntimeconfig.cache
+C:\Users\vivek.chaurasiya\Desktop\Day 2\ShoppingCart\ShoppingCart\obj\Debug\net6.0\ref\ShoppingCart.dll

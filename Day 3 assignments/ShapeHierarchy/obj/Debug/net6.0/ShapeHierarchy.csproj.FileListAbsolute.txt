@@ -1,0 +1,15 @@
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.csproj.AssemblyReference.cache
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.AssemblyInfoInputs.cache
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.AssemblyInfo.cs
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\ShapeHierarchy\bin\Debug\net6.0\ShapeHierarchy.exe
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\ShapeHierarchy\bin\Debug\net6.0\ShapeHierarchy.deps.json
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\ShapeHierarchy\bin\Debug\net6.0\ShapeHierarchy.runtimeconfig.json
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\ShapeHierarchy\bin\Debug\net6.0\ShapeHierarchy.dll
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\ShapeHierarchy\bin\Debug\net6.0\ShapeHierarchy.pdb
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.dll
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\ShapeHierarchy\obj\Debug\net6.0\refint\ShapeHierarchy.dll
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.pdb
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\ShapeHierarchy\obj\Debug\net6.0\ShapeHierarchy.genruntimeconfig.cache
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\ShapeHierarchy\obj\Debug\net6.0\ref\ShapeHierarchy.dll
