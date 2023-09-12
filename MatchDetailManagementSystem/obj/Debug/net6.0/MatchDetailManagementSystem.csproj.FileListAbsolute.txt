@@ -1,0 +1,15 @@
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\MatchDetailManagementSystem\obj\Debug\net6.0\MatchDetailManagementSystem.csproj.AssemblyReference.cache
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\MatchDetailManagementSystem\obj\Debug\net6.0\MatchDetailManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\MatchDetailManagementSystem\obj\Debug\net6.0\MatchDetailManagementSystem.AssemblyInfoInputs.cache
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\MatchDetailManagementSystem\obj\Debug\net6.0\MatchDetailManagementSystem.AssemblyInfo.cs
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\MatchDetailManagementSystem\obj\Debug\net6.0\MatchDetailManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\MatchDetailManagementSystem\bin\Debug\net6.0\MatchDetailManagementSystem.exe
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\MatchDetailManagementSystem\bin\Debug\net6.0\MatchDetailManagementSystem.deps.json
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\MatchDetailManagementSystem\bin\Debug\net6.0\MatchDetailManagementSystem.runtimeconfig.json
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\MatchDetailManagementSystem\bin\Debug\net6.0\MatchDetailManagementSystem.dll
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\MatchDetailManagementSystem\bin\Debug\net6.0\MatchDetailManagementSystem.pdb
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\MatchDetailManagementSystem\obj\Debug\net6.0\MatchDetailManagementSystem.dll
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\MatchDetailManagementSystem\obj\Debug\net6.0\refint\MatchDetailManagementSystem.dll
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\MatchDetailManagementSystem\obj\Debug\net6.0\MatchDetailManagementSystem.pdb
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\MatchDetailManagementSystem\obj\Debug\net6.0\MatchDetailManagementSystem.genruntimeconfig.cache
+C:\Users\vivek.chaurasiya\Desktop\c# solutions\MatchDetailManagementSystem\obj\Debug\net6.0\ref\MatchDetailManagementSystem.dll
